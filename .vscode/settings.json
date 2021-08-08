@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 17,
+  "files.autoSave": "afterDelay",
+  "code-runner.runInTerminal": true,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black"
+}
